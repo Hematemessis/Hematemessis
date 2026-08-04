@@ -60,7 +60,7 @@
 ## GitHub 数据
 
 <div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Hematemessis&show_icons=true&hide_border=true&theme=transparent&title_color=2563eb&icon_color=0891b2&text_color=64748b" alt="Hematemessis GitHub stats" />
+  <img height="170" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Hematemessis&show_icons=true&hide_border=true&theme=transparent&title_color=2563eb&icon_color=0891b2&text_color=64748b" alt="Hematemessis GitHub stats" />
 </div>
 <div align="center">
   <picture>
