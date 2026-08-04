@@ -62,9 +62,19 @@
 <div align="center">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=Hematemessis&show_icons=true&hide_border=true&theme=transparent&title_color=2563eb&icon_color=0891b2&text_color=64748b" alt="Hematemessis GitHub stats" />
 </div>
-
-<!--
-动态贡献 Snake 需要先在 Hematemessis/Hematemessis 仓库中配置 GitHub Actions。
-配置完成后，可在这里加入：
-<img src="https://raw.githubusercontent.com/Hematemessis/Hematemessis/output/github-contribution-grid-snake.svg" alt="GitHub contribution snake" />
--->
+<div align="center">
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/Hematemessis/Hematemessis/output/github-contribution-grid-snake-dark.svg"
+    />
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://raw.githubusercontent.com/Hematemessis/Hematemessis/output/github-contribution-grid-snake.svg"
+    />
+    <img
+      alt="GitHub contribution snake"
+      src="https://raw.githubusercontent.com/Hematemessis/Hematemessis/output/github-contribution-grid-snake.svg"
+    />
+  </picture>
+</div>
