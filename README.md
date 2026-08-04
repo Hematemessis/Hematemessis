@@ -3,7 +3,7 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0f172a,50:1e3a8a,100:38bdf8&text=Wenhao%20Li&fontSize=48&fontColor=f8fafc&fontAlignY=38&desc=AI%20Product%20Manager%20%7C%20AIGC%20Workflows%20%7C%20Agent%20Products&descAlignY=58&animation=fadeIn" alt="Wenhao Li profile header" />
 
 <p>
-  <img src="https://img.shields.io/badge/Focus-AI%20Product-2563eb?style=for-the-badge" alt="AI Product" />
+  <img src="https://img.shields.io/badge/Focus-AI%20Product-2563eb?style=for-the-badge" alt="AI PM" />
   <img src="https://img.shields.io/badge/Focus-AIGC%20Workflow-7c3aed?style=for-the-badge" alt="AIGC Workflow" />
   <img src="https://img.shields.io/badge/Focus-Agent%20Products-0891b2?style=for-the-badge" alt="Agent Products" />
 </p>
