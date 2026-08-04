@@ -21,16 +21,16 @@
 
 ## 关于我
 
-你好，我是李文灏，目前就读于中国科学技术大学管理学院金融科技专业。
+👋Hello啊，我是李文灏，目前就读于中国科学技术大学。
 
-我做过 AIGC 广告工作流、AI Coding 和游戏智能 Agent，关注怎样把模型能力接入真实业务。我习惯先把输入、流程和评价标准定义清楚，再推动产品进入生产与迭代。
+我做过 AIGC 广告工作流、游戏AI Coding Copilot 和游戏智能 Agent 队友（是的，就是没有那么蠢的人机🤖），关注怎样把模型能力接入真实的场景。作为非科班出身的小菜鸡，我习惯（只能）先把输入、流程和评价标准定义清楚，再推动产品进入生产与迭代。
 
 目前主要关注 AIGC Workflow、Agent 产品、LLM 评估和多模态应用。
 
 ## 经历
 
 - **字节跳动｜AIGC 产品经理**：从 0 到 1 负责游戏短剧原生广告链路；并行负责千川电商方向的产品方案与策略设计，与电商团队共同落地。
-- **腾讯｜AI 产品经理**：参与 AI Coding 和游戏智能 Agent 产品，覆盖产品定义、Agent 工作流、LLM 评估与数据迭代。
+- **腾讯｜AI 产品经理**：参与 AI Coding 和游戏智能 Agent 产品（就是和平精英里的ai队友🎮），覆盖产品定义、Agent 工作流、LLM 评估与数据迭代。
 - **京东科技｜AIGC 产品运营**：参与内容生成平台建设，通过 Prompt、内容评估和实验优化支持业务增长。
 
 ## 项目
@@ -41,7 +41,7 @@
 
 ### [暑期实习投递管理](https://github.com/Hematemessis/summer_intern)
 
-将岗位收集、投递进度和面试记录放在一个页面中管理。
+将岗位收集、投递进度和面试记录放在一个页面中管理（本人亲自使用💬）
 
 ### [今天整点啥](https://github.com/toRolex/eatwhat)
 
@@ -55,7 +55,7 @@
 
 `AI Product` `AIGC Workflow` `Agent Design` `Prompt Engineering` `LLM Evaluation`
 
-`Python` `MySQL` `RAG` `Multi-Agent` `Product Analytics`
+`Python`  `RAG` `Multi-Agent` `Product Analytics`
 
 ## GitHub 数据
 
