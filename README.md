@@ -68,7 +68,7 @@
 
 将岗位收集、投递进度和面试记录放在一个页面中管理（本人亲自使用💬）。
 
-### [今天整点啥](https://github.com/toRolex/eatwhat)
+### [今天整点啥](https://github.com/Hematemessis/eatwhat)
 
 合作项目｜AI 产品与方案设计
 
