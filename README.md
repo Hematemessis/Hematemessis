@@ -60,6 +60,10 @@
 
 ## 项目
 
+### [FinPilot：中国市场智能投资研究与配置助手](https://github.com/Hematemessis/FinPilot)
+
+面向投资小白的中国市场投顾 Agent，覆盖风险问卷、A/H 股资产配置、市场下跌模拟，以及贵州茅台和腾讯控股的官方财报证据研究。
+
 ### [美团个人知识库](https://github.com/Hematemessis/my-knowledge-base-meituan)
 
 基于 AI 的个人知识库管理工具，探索资料整理、检索和问答体验。
